@@ -154,6 +154,7 @@ span {
 
 .ribbon span {
     background: #fff;
+    opacity: 0.5;
     display: inline-block;
     line-height: 3em;
     padding: 0 1.5em;
@@ -172,6 +173,7 @@ span {
 
 .ribbon a:hover span {
     background: #FFD204;
+    opacity: 0.5;
     margin-top: 0;
 }
 
