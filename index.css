@@ -272,5 +272,6 @@ audio {
 
 .icons_items_imgs {
     width: 250px;
+    margin: 0 auto;
     margin-bottom: 30px;
 }
