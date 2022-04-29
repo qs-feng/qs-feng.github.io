@@ -79,7 +79,7 @@ span {
     color: #4e4e4e;
     font-size: 48px;
     font-weight: 700;
-    text-shadow: 5px 5px 0 #999, 7px 7px 0 #eee;
+    text-shadow: 5px 5px 0 #eee, 7px 7px 0 #999;
 }
 
 .titles {
