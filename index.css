@@ -133,7 +133,7 @@ span {
     margin-top: 0.5em;
     content: "";
     display: flex;
-    ;
+    opacity: 0.5;
     border: 1.5em solid #8bb9dd; //前后飘带
 }
 
@@ -173,7 +173,7 @@ span {
 }
 
 .ribbon a:hover span {
-    background: #8bb9dd;
+    background: #4a7fd6;
     opacity: 0.5;
     margin-top: 0;
 }
