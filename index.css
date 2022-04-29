@@ -134,7 +134,7 @@ span {
     content: "";
     display: flex;
     ;
-    border: 1.5em solid #222222;
+    border: 1.5em solid #8bb9dd; //前后飘带
 }
 
 .ribbon:after {
