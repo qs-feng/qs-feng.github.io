@@ -134,7 +134,7 @@ span {
     content: "";
     display: flex;
     ;
-    border: 1.5em solid #8bb9dd;
+    border: 1.5em solid #31639c;
 }
 
 .ribbon:after {
@@ -154,7 +154,7 @@ span {
 }
 
 .ribbon span {
-    background: #8bb9dd;
+    background: #31639c;
     opacity: 0.5;
     display: inline-block;
     line-height: 3em;
