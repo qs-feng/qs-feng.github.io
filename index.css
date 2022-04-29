@@ -134,7 +134,7 @@ span {
     content: "";
     display: flex;
     ;
-    border: 1.5em solid #31639c;
+    border: 1.5em solid #8bb9dd;
 }
 
 .ribbon:after {
@@ -154,7 +154,7 @@ span {
 }
 
 .ribbon span {
-    background: #31639c;
+    background: #8bb9dd;
     opacity: 0.5;
     display: inline-block;
     line-height: 3em;
@@ -173,7 +173,7 @@ span {
 }
 
 .ribbon a:hover span {
-    background: #31639c;
+    background: #8bb9dd;
     opacity: 0.5;
     margin-top: 0;
 }
@@ -183,7 +183,7 @@ span {
     position: absolute;
     top: 3em;
     left: 0;
-    border-right: 0.5em solid #2d567c;
+    border-right: 0.5em solid #8bb9dd;
     border-bottom: 0.5em solid #fff;
 }
 
