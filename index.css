@@ -134,7 +134,7 @@ span {
     content: "";
     display: flex;
     ;
-    border: 1.5em solid #8bb9dd;
+    border: 1.5em solid #222222;
 }
 
 .ribbon:after {
@@ -183,7 +183,7 @@ span {
     position: absolute;
     top: 3em;
     left: 0;
-    border-right: 0.5em solid #8bb9dd; #前角
+    border-right: 0.5em solid #8bb9dd; 
     border-bottom: 0.5em solid #8bb9dd;
 }
 
@@ -192,7 +192,7 @@ span {
     position: absolute;
     top: 3em;
     right: 0;
-    border-left: 0.5em solid #8bb9dd; #后角
+    border-left: 0.5em solid #8bb9dd; 
     border-bottom: 0.5em solid #8bb9dd;
 }
 
