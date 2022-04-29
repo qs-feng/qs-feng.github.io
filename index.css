@@ -184,7 +184,7 @@ span {
     top: 3em;
     left: 0;
     border-right: 0.5em solid #ac3233; #前角
-    border-bottom: 0.5em solid #fff;
+    border-bottom: 0.5em solid #ac3233;
 }
 
 .ribbon span:after {
@@ -193,7 +193,7 @@ span {
     top: 3em;
     right: 0;
     border-left: 0.5em solid #ac3233; #后角
-    border-bottom: 0.5em solid #fff;
+    border-bottom: 0.5em solid #ac3233;
 }
 
 .introduce {
